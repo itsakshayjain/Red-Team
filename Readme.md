@@ -1,1 +1,1 @@
-This are the scripts which I found useful during me Red Team journey.
+This are the scripts which I found useful during my Red Team journey.
